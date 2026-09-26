@@ -1,7 +1,7 @@
 #!/bin/sh
 # Установка Soulance OS на Linux одной командой.
 #
-#   curl -fsSL https://soulance.ru/install.sh | sh
+#   curl -fsSL https://os.soulance.ru/install.sh | sh
 #
 # Скачивает последнюю сборку, кладёт её в ~/.local/share, достаёт иконку из
 # неё самой и заводит ярлык в меню приложений. Повторный запуск обновляет.
